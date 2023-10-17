@@ -1,9 +1,27 @@
-# Project Name
+# Full Stack To Do App
 
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+Full Stack To Do App built with React, Node.js, Postgres and Express. More details...
 
-## Description
+## Set up
 
-Your project description goes here. What problem did you solve? How did you solve it?
+Create a database using the database.sql file.
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+```
+npm install
+npm start
+```
+
+## Screenshot
+
+Image goes here...
+
+## Task List
+
+- [ ] SQL to create the database table
+- [ ] Create a database.sql file and add the create table SQL
+- [ ] Add sample data with insert statements
+- [ ] Add insert statements into the database.sql file
+- [ ] Create a GET route in the todo.router.js file to return sample data
+- [ ] Test the GET route with Postman
+- [ ] Add useEffect and Axios GET to the App.jsx
+- [ ] Display items on the page with .map ...
